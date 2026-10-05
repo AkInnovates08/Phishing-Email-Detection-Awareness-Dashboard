@@ -1,0 +1,11 @@
+SAFE SYNTHETIC PHISHING-STYLE SAMPLE
+Sender: security-alert@account-check.invalid.test
+Subject: URGENT: Verify Your Account Immediately
+Body: Immediately verify your password or your account will be suspended. Visit http://198.51.100.10/verify-account
+Attachment: invoice.pdf.exe
+
+LEGITIMATE SYNTHETIC SAMPLE
+Sender: training@example.org
+Subject: Cybersecurity Workshop Reminder
+Body: This is a normal informational reminder for the scheduled cybersecurity workshop.
+Attachment: workshop-notes.txt
